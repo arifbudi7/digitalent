@@ -1,0 +1,199 @@
+kode_provinsi,nama_provinsi,kelompok_usia,status_kerja,jumlah_individu
+11,"Prov. Nanggroe Aceh Darussalam","Usia 15 - di bawah 60 tahun","Bekerja",674402
+11,"Prov. Nanggroe Aceh Darussalam","Usia 15 - di bawah 60 tahun","Tidak Bekerja",359849
+11,"Prov. Nanggroe Aceh Darussalam","Usia 5 - di bawah 15 tahun","Bekerja",16468
+11,"Prov. Nanggroe Aceh Darussalam","Usia 5 - di bawah 15 tahun","Tidak Bekerja",413087
+11,"Prov. Nanggroe Aceh Darussalam","Usia di atas 60 tahun","Bekerja",54454
+11,"Prov. Nanggroe Aceh Darussalam","Usia di atas 60 tahun","Tidak Bekerja",42553
+12,"Prov. Sumatera Utara","Usia 15 - di bawah 60 tahun","Bekerja",1399414
+12,"Prov. Sumatera Utara","Usia 15 - di bawah 60 tahun","Tidak Bekerja",748019
+12,"Prov. Sumatera Utara","Usia 5 - di bawah 15 tahun","Bekerja",91968
+12,"Prov. Sumatera Utara","Usia 5 - di bawah 15 tahun","Tidak Bekerja",948601
+12,"Prov. Sumatera Utara","Usia di atas 60 tahun","Bekerja",96567
+12,"Prov. Sumatera Utara","Usia di atas 60 tahun","Tidak Bekerja",111541
+13,"Prov. Sumatera Barat","Usia 15 - di bawah 60 tahun","Bekerja",478993
+13,"Prov. Sumatera Barat","Usia 15 - di bawah 60 tahun","Tidak Bekerja",290864
+13,"Prov. Sumatera Barat","Usia 5 - di bawah 15 tahun","Bekerja",7087
+13,"Prov. Sumatera Barat","Usia 5 - di bawah 15 tahun","Tidak Bekerja",360273
+13,"Prov. Sumatera Barat","Usia di atas 60 tahun","Bekerja",45990
+13,"Prov. Sumatera Barat","Usia di atas 60 tahun","Tidak Bekerja",47168
+14,"Prov. Riau","Usia 15 - di bawah 60 tahun","Bekerja",391851
+14,"Prov. Riau","Usia 15 - di bawah 60 tahun","Tidak Bekerja",294344
+14,"Prov. Riau","Usia 5 - di bawah 15 tahun","Bekerja",5373
+14,"Prov. Riau","Usia 5 - di bawah 15 tahun","Tidak Bekerja",296574
+14,"Prov. Riau","Usia di atas 60 tahun","Bekerja",25814
+14,"Prov. Riau","Usia di atas 60 tahun","Tidak Bekerja",29168
+15,"Prov. Jambi","Usia 15 - di bawah 60 tahun","Bekerja",290539
+15,"Prov. Jambi","Usia 15 - di bawah 60 tahun","Tidak Bekerja",167864
+15,"Prov. Jambi","Usia 5 - di bawah 15 tahun","Bekerja",3151
+15,"Prov. Jambi","Usia 5 - di bawah 15 tahun","Tidak Bekerja",177682
+15,"Prov. Jambi","Usia di atas 60 tahun","Bekerja",25892
+15,"Prov. Jambi","Usia di atas 60 tahun","Tidak Bekerja",26560
+16,"Prov. Sumatera Selatan","Usia 15 - di bawah 60 tahun","Bekerja",836110
+16,"Prov. Sumatera Selatan","Usia 15 - di bawah 60 tahun","Tidak Bekerja",439668
+16,"Prov. Sumatera Selatan","Usia 5 - di bawah 15 tahun","Bekerja",10526
+16,"Prov. Sumatera Selatan","Usia 5 - di bawah 15 tahun","Tidak Bekerja",494578
+16,"Prov. Sumatera Selatan","Usia di atas 60 tahun","Bekerja",67283
+16,"Prov. Sumatera Selatan","Usia di atas 60 tahun","Tidak Bekerja",63302
+17,"Prov. Bengkulu","Usia 15 - di bawah 60 tahun","Bekerja",246194
+17,"Prov. Bengkulu","Usia 15 - di bawah 60 tahun","Tidak Bekerja",82911
+17,"Prov. Bengkulu","Usia 5 - di bawah 15 tahun","Bekerja",3773
+17,"Prov. Bengkulu","Usia 5 - di bawah 15 tahun","Tidak Bekerja",125727
+17,"Prov. Bengkulu","Usia di atas 60 tahun","Bekerja",21862
+17,"Prov. Bengkulu","Usia di atas 60 tahun","Tidak Bekerja",14054
+18,"Prov. Lampung","Usia 15 - di bawah 60 tahun","Bekerja",1078895
+18,"Prov. Lampung","Usia 15 - di bawah 60 tahun","Tidak Bekerja",543143
+18,"Prov. Lampung","Usia 5 - di bawah 15 tahun","Bekerja",16300
+18,"Prov. Lampung","Usia 5 - di bawah 15 tahun","Tidak Bekerja",572714
+18,"Prov. Lampung","Usia di atas 60 tahun","Bekerja",109633
+18,"Prov. Lampung","Usia di atas 60 tahun","Tidak Bekerja",91978
+19,"Prov. Kepulauan Bangka Belitung","Usia 15 - di bawah 60 tahun","Bekerja",64422
+19,"Prov. Kepulauan Bangka Belitung","Usia 15 - di bawah 60 tahun","Tidak Bekerja",40896
+19,"Prov. Kepulauan Bangka Belitung","Usia 5 - di bawah 15 tahun","Bekerja",908
+19,"Prov. Kepulauan Bangka Belitung","Usia 5 - di bawah 15 tahun","Tidak Bekerja",43164
+19,"Prov. Kepulauan Bangka Belitung","Usia di atas 60 tahun","Bekerja",5971
+19,"Prov. Kepulauan Bangka Belitung","Usia di atas 60 tahun","Tidak Bekerja",11991
+21,"Prov. Kepulauan Riau","Usia 15 - di bawah 60 tahun","Bekerja",92956
+21,"Prov. Kepulauan Riau","Usia 15 - di bawah 60 tahun","Tidak Bekerja",86877
+21,"Prov. Kepulauan Riau","Usia 5 - di bawah 15 tahun","Bekerja",704
+21,"Prov. Kepulauan Riau","Usia 5 - di bawah 15 tahun","Tidak Bekerja",74853
+21,"Prov. Kepulauan Riau","Usia di atas 60 tahun","Bekerja",4937
+21,"Prov. Kepulauan Riau","Usia di atas 60 tahun","Tidak Bekerja",8619
+31,"Prov. DKI Jakarta","Usia 15 - di bawah 60 tahun","Bekerja",397065
+31,"Prov. DKI Jakarta","Usia 15 - di bawah 60 tahun","Tidak Bekerja",374877
+31,"Prov. DKI Jakarta","Usia 5 - di bawah 15 tahun","Bekerja",1399
+31,"Prov. DKI Jakarta","Usia 5 - di bawah 15 tahun","Tidak Bekerja",267079
+31,"Prov. DKI Jakarta","Usia di atas 60 tahun","Bekerja",16741
+31,"Prov. DKI Jakarta","Usia di atas 60 tahun","Tidak Bekerja",49391
+32,"Prov. Jawa Barat","Usia 15 - di bawah 60 tahun","Bekerja",4196907
+32,"Prov. Jawa Barat","Usia 15 - di bawah 60 tahun","Tidak Bekerja",3857046
+32,"Prov. Jawa Barat","Usia 5 - di bawah 15 tahun","Bekerja",24429
+32,"Prov. Jawa Barat","Usia 5 - di bawah 15 tahun","Tidak Bekerja",2884895
+32,"Prov. Jawa Barat","Usia di atas 60 tahun","Bekerja",512870
+32,"Prov. Jawa Barat","Usia di atas 60 tahun","Tidak Bekerja",657410
+33,"Prov. Jawa Tengah","Usia 15 - di bawah 60 tahun","Bekerja",5158301
+33,"Prov. Jawa Tengah","Usia 15 - di bawah 60 tahun","Tidak Bekerja",2361694
+33,"Prov. Jawa Tengah","Usia 5 - di bawah 15 tahun","Bekerja",45865
+33,"Prov. Jawa Tengah","Usia 5 - di bawah 15 tahun","Tidak Bekerja",2253443
+33,"Prov. Jawa Tengah","Usia di atas 60 tahun","Bekerja",808264
+33,"Prov. Jawa Tengah","Usia di atas 60 tahun","Tidak Bekerja",709420
+34,"Prov. D I Yogyakarta","Usia 15 - di bawah 60 tahun","Bekerja",588475
+34,"Prov. D I Yogyakarta","Usia 15 - di bawah 60 tahun","Tidak Bekerja",195576
+34,"Prov. D I Yogyakarta","Usia 5 - di bawah 15 tahun","Bekerja",4583
+34,"Prov. D I Yogyakarta","Usia 5 - di bawah 15 tahun","Tidak Bekerja",202777
+34,"Prov. D I Yogyakarta","Usia di atas 60 tahun","Bekerja",141323
+34,"Prov. D I Yogyakarta","Usia di atas 60 tahun","Tidak Bekerja",83972
+35,"Prov. Jawa Timur","Usia 15 - di bawah 60 tahun","Bekerja",5429162
+35,"Prov. Jawa Timur","Usia 15 - di bawah 60 tahun","Tidak Bekerja",2523899
+35,"Prov. Jawa Timur","Usia 5 - di bawah 15 tahun","Bekerja",46341
+35,"Prov. Jawa Timur","Usia 5 - di bawah 15 tahun","Tidak Bekerja",2122156
+35,"Prov. Jawa Timur","Usia di atas 60 tahun","Bekerja",938180
+35,"Prov. Jawa Timur","Usia di atas 60 tahun","Tidak Bekerja",758557
+36,"Prov. Banten","Usia 15 - di bawah 60 tahun","Bekerja",904807
+36,"Prov. Banten","Usia 15 - di bawah 60 tahun","Tidak Bekerja",848989
+36,"Prov. Banten","Usia 5 - di bawah 15 tahun","Bekerja",7443
+36,"Prov. Banten","Usia 5 - di bawah 15 tahun","Tidak Bekerja",638419
+36,"Prov. Banten","Usia di atas 60 tahun","Bekerja",72342
+36,"Prov. Banten","Usia di atas 60 tahun","Tidak Bekerja",98347
+51,"Prov. Bali","Usia 15 - di bawah 60 tahun","Bekerja",397423
+51,"Prov. Bali","Usia 15 - di bawah 60 tahun","Tidak Bekerja",96416
+51,"Prov. Bali","Usia 5 - di bawah 15 tahun","Bekerja",10894
+51,"Prov. Bali","Usia 5 - di bawah 15 tahun","Tidak Bekerja",165553
+51,"Prov. Bali","Usia di atas 60 tahun","Bekerja",53509
+51,"Prov. Bali","Usia di atas 60 tahun","Tidak Bekerja",40678
+52,"Prov. Nusa Tenggara Barat","Usia 15 - di bawah 60 tahun","Bekerja",711147
+52,"Prov. Nusa Tenggara Barat","Usia 15 - di bawah 60 tahun","Tidak Bekerja",429756
+52,"Prov. Nusa Tenggara Barat","Usia 5 - di bawah 15 tahun","Bekerja",14910
+52,"Prov. Nusa Tenggara Barat","Usia 5 - di bawah 15 tahun","Tidak Bekerja",424248
+52,"Prov. Nusa Tenggara Barat","Usia di atas 60 tahun","Bekerja",70712
+52,"Prov. Nusa Tenggara Barat","Usia di atas 60 tahun","Tidak Bekerja",72357
+53,"Prov. Nusa Tenggara Timur","Usia 15 - di bawah 60 tahun","Bekerja",931263
+53,"Prov. Nusa Tenggara Timur","Usia 15 - di bawah 60 tahun","Tidak Bekerja",210565
+53,"Prov. Nusa Tenggara Timur","Usia 5 - di bawah 15 tahun","Bekerja",52531
+53,"Prov. Nusa Tenggara Timur","Usia 5 - di bawah 15 tahun","Tidak Bekerja",603916
+53,"Prov. Nusa Tenggara Timur","Usia di atas 60 tahun","Bekerja",100105
+53,"Prov. Nusa Tenggara Timur","Usia di atas 60 tahun","Tidak Bekerja",42381
+61,"Prov. Kalimantan Barat","Usia 15 - di bawah 60 tahun","Bekerja",522709
+61,"Prov. Kalimantan Barat","Usia 15 - di bawah 60 tahun","Tidak Bekerja",182943
+61,"Prov. Kalimantan Barat","Usia 5 - di bawah 15 tahun","Bekerja",13295
+61,"Prov. Kalimantan Barat","Usia 5 - di bawah 15 tahun","Tidak Bekerja",278694
+61,"Prov. Kalimantan Barat","Usia di atas 60 tahun","Bekerja",41270
+61,"Prov. Kalimantan Barat","Usia di atas 60 tahun","Tidak Bekerja",31113
+62,"Prov. Kalimantan Tengah","Usia 15 - di bawah 60 tahun","Bekerja",162924
+62,"Prov. Kalimantan Tengah","Usia 15 - di bawah 60 tahun","Tidak Bekerja",64932
+62,"Prov. Kalimantan Tengah","Usia 5 - di bawah 15 tahun","Bekerja",3385
+62,"Prov. Kalimantan Tengah","Usia 5 - di bawah 15 tahun","Tidak Bekerja",93729
+62,"Prov. Kalimantan Tengah","Usia di atas 60 tahun","Bekerja",14923
+62,"Prov. Kalimantan Tengah","Usia di atas 60 tahun","Tidak Bekerja",11016
+63,"Prov. Kalimantan Selatan","Usia 15 - di bawah 60 tahun","Bekerja",280728
+63,"Prov. Kalimantan Selatan","Usia 15 - di bawah 60 tahun","Tidak Bekerja",132195
+63,"Prov. Kalimantan Selatan","Usia 5 - di bawah 15 tahun","Bekerja",4480
+63,"Prov. Kalimantan Selatan","Usia 5 - di bawah 15 tahun","Tidak Bekerja",152886
+63,"Prov. Kalimantan Selatan","Usia di atas 60 tahun","Bekerja",29657
+63,"Prov. Kalimantan Selatan","Usia di atas 60 tahun","Tidak Bekerja",30680
+64,"Prov. Kalimantan Timur","Usia 15 - di bawah 60 tahun","Bekerja",250644
+64,"Prov. Kalimantan Timur","Usia 15 - di bawah 60 tahun","Tidak Bekerja",190220
+64,"Prov. Kalimantan Timur","Usia 5 - di bawah 15 tahun","Bekerja",2500
+64,"Prov. Kalimantan Timur","Usia 5 - di bawah 15 tahun","Tidak Bekerja",168001
+64,"Prov. Kalimantan Timur","Usia di atas 60 tahun","Bekerja",21865
+64,"Prov. Kalimantan Timur","Usia di atas 60 tahun","Tidak Bekerja",25436
+71,"Prov. Sulawesi Utara","Usia 15 - di bawah 60 tahun","Bekerja",242949
+71,"Prov. Sulawesi Utara","Usia 15 - di bawah 60 tahun","Tidak Bekerja",205592
+71,"Prov. Sulawesi Utara","Usia 5 - di bawah 15 tahun","Bekerja",2508
+71,"Prov. Sulawesi Utara","Usia 5 - di bawah 15 tahun","Tidak Bekerja",169002
+71,"Prov. Sulawesi Utara","Usia di atas 60 tahun","Bekerja",20744
+71,"Prov. Sulawesi Utara","Usia di atas 60 tahun","Tidak Bekerja",30885
+72,"Prov. Sulawesi Tengah","Usia 15 - di bawah 60 tahun","Bekerja",368642
+72,"Prov. Sulawesi Tengah","Usia 15 - di bawah 60 tahun","Tidak Bekerja",193912
+72,"Prov. Sulawesi Tengah","Usia 5 - di bawah 15 tahun","Bekerja",8373
+72,"Prov. Sulawesi Tengah","Usia 5 - di bawah 15 tahun","Tidak Bekerja",252916
+72,"Prov. Sulawesi Tengah","Usia di atas 60 tahun","Bekerja",28355
+72,"Prov. Sulawesi Tengah","Usia di atas 60 tahun","Tidak Bekerja",24980
+73,"Prov. Sulawesi Selatan","Usia 15 - di bawah 60 tahun","Bekerja",796942
+73,"Prov. Sulawesi Selatan","Usia 15 - di bawah 60 tahun","Tidak Bekerja",568944
+73,"Prov. Sulawesi Selatan","Usia 5 - di bawah 15 tahun","Bekerja",27568
+73,"Prov. Sulawesi Selatan","Usia 5 - di bawah 15 tahun","Tidak Bekerja",551568
+73,"Prov. Sulawesi Selatan","Usia di atas 60 tahun","Bekerja",86592
+73,"Prov. Sulawesi Selatan","Usia di atas 60 tahun","Tidak Bekerja",115244
+74,"Prov. Sulawesi Tenggara","Usia 15 - di bawah 60 tahun","Bekerja",319578
+74,"Prov. Sulawesi Tenggara","Usia 15 - di bawah 60 tahun","Tidak Bekerja",135142
+74,"Prov. Sulawesi Tenggara","Usia 5 - di bawah 15 tahun","Bekerja",20158
+74,"Prov. Sulawesi Tenggara","Usia 5 - di bawah 15 tahun","Tidak Bekerja",203114
+74,"Prov. Sulawesi Tenggara","Usia di atas 60 tahun","Bekerja",29425
+74,"Prov. Sulawesi Tenggara","Usia di atas 60 tahun","Tidak Bekerja",17271
+75,"Prov. Gorontalo","Usia 15 - di bawah 60 tahun","Bekerja",155762
+75,"Prov. Gorontalo","Usia 15 - di bawah 60 tahun","Tidak Bekerja",106577
+75,"Prov. Gorontalo","Usia 5 - di bawah 15 tahun","Bekerja",2309
+75,"Prov. Gorontalo","Usia 5 - di bawah 15 tahun","Tidak Bekerja",105234
+75,"Prov. Gorontalo","Usia di atas 60 tahun","Bekerja",12403
+75,"Prov. Gorontalo","Usia di atas 60 tahun","Tidak Bekerja",11828
+76,"Prov. Sulawesi Barat","Usia 15 - di bawah 60 tahun","Bekerja",157664
+76,"Prov. Sulawesi Barat","Usia 15 - di bawah 60 tahun","Tidak Bekerja",58850
+76,"Prov. Sulawesi Barat","Usia 5 - di bawah 15 tahun","Bekerja",7371
+76,"Prov. Sulawesi Barat","Usia 5 - di bawah 15 tahun","Tidak Bekerja",108775
+76,"Prov. Sulawesi Barat","Usia di atas 60 tahun","Bekerja",14118
+76,"Prov. Sulawesi Barat","Usia di atas 60 tahun","Tidak Bekerja",9007
+81,"Prov. Maluku","Usia 15 - di bawah 60 tahun","Bekerja",233227
+81,"Prov. Maluku","Usia 15 - di bawah 60 tahun","Tidak Bekerja",127180
+81,"Prov. Maluku","Usia 5 - di bawah 15 tahun","Bekerja",6501
+81,"Prov. Maluku","Usia 5 - di bawah 15 tahun","Tidak Bekerja",188337
+81,"Prov. Maluku","Usia di atas 60 tahun","Bekerja",24203
+81,"Prov. Maluku","Usia di atas 60 tahun","Tidak Bekerja",15939
+82,"Prov. Maluku Utara","Usia 15 - di bawah 60 tahun","Bekerja",117125
+82,"Prov. Maluku Utara","Usia 15 - di bawah 60 tahun","Tidak Bekerja",56792
+82,"Prov. Maluku Utara","Usia 5 - di bawah 15 tahun","Bekerja",4400
+82,"Prov. Maluku Utara","Usia 5 - di bawah 15 tahun","Tidak Bekerja",83105
+82,"Prov. Maluku Utara","Usia di atas 60 tahun","Bekerja",9208
+82,"Prov. Maluku Utara","Usia di atas 60 tahun","Tidak Bekerja",6259
+91,"Prov. Papua Barat","Usia 15 - di bawah 60 tahun","Bekerja",160802
+91,"Prov. Papua Barat","Usia 15 - di bawah 60 tahun","Tidak Bekerja",92598
+91,"Prov. Papua Barat","Usia 5 - di bawah 15 tahun","Bekerja",5092
+91,"Prov. Papua Barat","Usia 5 - di bawah 15 tahun","Tidak Bekerja",72570
+91,"Prov. Papua Barat","Usia di atas 60 tahun","Bekerja",9796
+91,"Prov. Papua Barat","Usia di atas 60 tahun","Tidak Bekerja",6060
+94,"Prov. Papua","Usia 15 - di bawah 60 tahun","Bekerja",959872
+94,"Prov. Papua","Usia 15 - di bawah 60 tahun","Tidak Bekerja",220102
+94,"Prov. Papua","Usia 5 - di bawah 15 tahun","Bekerja",90540
+94,"Prov. Papua","Usia 5 - di bawah 15 tahun","Tidak Bekerja",210781
+94,"Prov. Papua","Usia di atas 60 tahun","Bekerja",25516
+94,"Prov. Papua","Usia di atas 60 tahun","Tidak Bekerja",10084
